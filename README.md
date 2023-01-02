@@ -1,5 +1,5 @@
 # NLP-Assignments-CSE-556
-Assignments done as part of CSE556 coursework
+Assignments done as part of **Natural Language Processing CSE556** (monsoon semester 2022) coursework
 
 **Assignment 1** 
 
