@@ -1,5 +1,5 @@
 # NLP-Assignments-CSE-556
-Assignments done as part of **Natural Language Processing CSE556** (monsoon semester 2022) coursework at IIITD
+Assignments done as part of **Natural Language Processing CSE556** taught by Prof Dr Md Shad Akhtar at IIITD (monsoon semester 2022).
 
 **Assignment 1** 
 
