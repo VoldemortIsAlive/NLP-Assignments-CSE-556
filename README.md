@@ -9,4 +9,4 @@ Section II involves applying different text preprocessing techniques like tokeni
 
 Section III involves data visualization from the clean preprocessed text obtained and generating word clouds corresponding to the two classes
 
-Section IV inovles using VADER to retrieve class label for each instance on the preprocessed text obtained and comparing its accuracy with the original text provided
+Section IV involves using VADER to retrieve class label for each instance on the preprocessed text obtained and comparing its accuracy with the original text provided
